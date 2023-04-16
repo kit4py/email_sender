@@ -1,5 +1,7 @@
 # email_sender
 
+The email_sender program is built on top of the Simple Mail Transfer Protocol (SMTP), making it easy for users to send emails to multiple recipients. Don't forget to customize the index.html template and add your credentials.
+
 Installation:
 1. git clone
 2. cd email_sender/
