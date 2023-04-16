@@ -13,7 +13,7 @@ print('''
 ''')
 
 # your email list
-email_list = ['nkhr.work@gmail.com',
+email_list = ['email@0.com',
               'email@1.com',
               'email@2.com'
               ]
